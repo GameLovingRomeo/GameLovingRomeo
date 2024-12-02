@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on study
-- 📫 How to reach me 2080448699@qq.com
+
 - :smile:
 
 

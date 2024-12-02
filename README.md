@@ -7,11 +7,6 @@
 
 
 
-✨ 2022-5-27 <br>
-    <div align="right" > <img src="https://gitee.com/iceBlackTeaAndGreenTea/systematic-learning/raw/master/Study/imgs/11.png" /></div>
-   <br>
-✨
-
 
 <!---
 GameLovingRomeo/GameLovingRomeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
